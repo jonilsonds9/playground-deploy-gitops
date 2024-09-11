@@ -1,6 +1,6 @@
 image:
   repository: jonilsonds9/playground-gitops-argo-cd
-  tag: "ef91fa03632dda58b09277763a27fdaf3f27f130"
+  tag: 1a182ddc8bc0b7487ab252f53b3894b646cc1530
   pullPolicy: IfNotPresent
 
 nameOverride: "beta"
